@@ -1,6 +1,5 @@
 """
 Music Player
-ICS4U
 """
 
 import tkinter as tk
