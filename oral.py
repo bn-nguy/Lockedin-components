@@ -1,6 +1,5 @@
 """
 Oral Presentation Helper
-ICS4U
 """
 
 import tkinter as tk
