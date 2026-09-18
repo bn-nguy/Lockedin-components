@@ -1,2 +1,2 @@
 # Lockedin-components
-Music player and citation machine.
+Music player, oral presentation tool and citation machine.
