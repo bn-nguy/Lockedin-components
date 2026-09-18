@@ -1,5 +1,5 @@
 """
-Oral Presentation Helper
+Oral Presentation Tool
 """
 
 import tkinter as tk
